@@ -9,6 +9,8 @@ Mind elixir is a free open source mind map core.
 
 [中文](https://github.com/ssshooter/mind-elixir-core/blob/master/readme.cn.md)
 
+[docs](docs)
+
 ## Use now
 
 ![mindelixir](https://raw.githubusercontent.com/ssshooter/mind-elixir-core/master/screenshot.png)
